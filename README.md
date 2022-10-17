@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thule78
 - 👀 I’m interested in HTML - CSS one div Art, and building apps for start-up on Ruby on Rails
 - 🌱 I’m currently learning Ruby on Rail
-- 💞️ I’m looking to collaborate on CSS art
+- 💞️ I’m looking to collaborate on CSS art and RoR
 - 📫 Reach me at lunthu@gmail.com
 
 <!---
